@@ -13,4 +13,6 @@ public class ZombieData : MonoBehaviour {
 	void Update () {
 	
 	}
+
+
 }
